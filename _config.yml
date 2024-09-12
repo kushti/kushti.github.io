@@ -108,6 +108,27 @@ content:
         description: | # this will include new lines to allow paragraphs
             NXT was first pure proof-of-stake cryprocurrency, CoinMarketCap top-3 by capitalization back in June 2014. I made some new features there, and started doing tests. 
 
+  - title: Papers # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Hyperproofs, Aggregating and maintaining proofs in vector commitments
+        link: https://www.usenix.org/system/files/sec22-srinivasan.pdf
+      - layout: left
+        title: On Contractual Money
+        link: https://www.academia.edu/download/105637412/NZcf.pdf
+      - layout: left
+        title: Edrax, A cryptocurrency with stateless transaction validation
+        link: https://eprint.iacr.org/2018/968.pdf 
+      - layout: left
+        title: Revisiting difficulty control for blockchain systems
+        link: https://eprint.iacr.org/2017/731.pdf 
+      - layout: left
+        title: Twinscoin, A cryptocurrency via proof-of-work and proof-of-stake
+        link: https://eprint.iacr.org/2017/232.pdf 
+      - layout: left
+        title: Improving authenticated dynamic dictionaries, with applications to cryptocurrencies
+        link: https://eprint.iacr.org/2016/994.pdf
 
   - title: A Little More About Me
     layout: text
