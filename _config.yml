@@ -115,11 +115,29 @@ content:
         title: Hyperproofs, Aggregating and maintaining proofs in vector commitments
         link: https://www.usenix.org/system/files/sec22-srinivasan.pdf
       - layout: left
+        title: Zerojoin, Combining zerocoin and coinjoin
+        link: https://eprint.iacr.org/2020/560.pdf
+      - layout: left
+        title: Bypassing non-outsourceable proof-of-work schemes using collateralized smart contracts
+        link: https://eprint.iacr.org/2020/044.pdf
+      - layout: left
         title: On Contractual Money
         link: https://www.academia.edu/download/105637412/NZcf.pdf
       - layout: left
+        title: Multi-stage contracts in the UTXO model
+        link: https://link.springer.com/chapter/10.1007/978-3-030-31500-9_16
+      - layout: left
+        title: Self-reproducing coins as universal turing machine
+        link: https://arxiv.org/pdf/1806.10116
+      - layout: left
         title: Edrax, A cryptocurrency with stateless transaction validation
         link: https://eprint.iacr.org/2018/968.pdf 
+      - layout: left
+        title: Checking laws of the blockchain with property-based testing
+        link: https://rmod-files.lille.inria.fr/Team/Texts/Papers/iwboseProceedings.pdf#page=45  
+      - layout: left
+        title: Multi-mode cryptocurrency systems
+        link: https://eprint.iacr.org/2018/129.pdf 
       - layout: left
         title: Revisiting difficulty control for blockchain systems
         link: https://eprint.iacr.org/2017/731.pdf 
@@ -129,6 +147,7 @@ content:
       - layout: left
         title: Improving authenticated dynamic dictionaries, with applications to cryptocurrencies
         link: https://eprint.iacr.org/2016/994.pdf
+      
 
   - title: A Little More About Me
     layout: text
