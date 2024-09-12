@@ -53,12 +53,12 @@ about_content: | # this will include new lines to allow paragraphs
   My interests: <mark>monetary theories</mark>, <mark>cryptography</mark>, <mark>peer-to-peer systems</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Cryptocurrency-Related Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Ergo
+        link: github.com/ergoplatform
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -103,14 +103,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Before cryptocurrencies I worked as software developer since 2006, in different companies and the as a freelancer, in the fields of database management software, web applications, distributed data harvesting and processing. Graduated from Saint-Petersburg University of Information Technology, Mechanics and Optics (ITMO). Read a course in cryptography there twice, in 2018 and 2020.
+      
+      There were some cryptocurrency-related projects I made back in 2013 (before Nxt), such as one of the first CEX prices aggregators, backend for a Bitcoin wallet etc. 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
